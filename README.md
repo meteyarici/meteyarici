@@ -25,7 +25,7 @@ These days I'm mostly playing with **Go**, **C#**, and **TypeScript**.
 
 ### 🛠 Tech I enjoy
 
-- **Backend**: Go, PHP, Laravel  
+- **Backend**: Go, C#, Laravel  
 - **Data & Real‑time**: WebSockets, REST APIs, performance‑oriented architectures  
 - **Tooling**: Docker, Linux, Git, CI/CD
 
