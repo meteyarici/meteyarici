@@ -3,7 +3,7 @@
 ### Hi there, I'm Mete 👋
 
 **Backend developer, real‑time systems enthusiast, and someone who loves experimenting with new ideas.**  
-These days I'm mostly playing with **Go**, **c#**, and **TypeScript**.
+These days I'm mostly playing with **Go**, **C#**, and **TypeScript**.
 
 ---
 
